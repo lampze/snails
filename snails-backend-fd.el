@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-fd.el --- fd backend for snails
 
 ;; Filename: snails-backend-fd.el

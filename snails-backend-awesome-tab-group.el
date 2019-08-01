@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-awesome-tab-group.el --- awesome-tab group backend for snails
 
 ;; Filename: snails-backend-awesome-tab-group.el

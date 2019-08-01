@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-buffer.el --- Buffer switch backend for snails
 
 ;; Filename: snails-backend-buffer.el

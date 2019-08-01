@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-imenu.el --- IMenu backend for snails
 
 ;; Filename: snails-backend-imenu.el

@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-bookmark.el --- Bookmark backend for snails
 
 ;; Filename: snails-backend-bookmark.el

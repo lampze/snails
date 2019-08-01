@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-recentf.el --- Rencent files backend for snails
 
 ;; Filename: snails-backend-recentf.el

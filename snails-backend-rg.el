@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-rg.el --- Ripgrep backend for snails
 
 ;; Filename: snails-backend-rg.el

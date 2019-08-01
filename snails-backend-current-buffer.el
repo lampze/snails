@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-current-buffer.el --- Current buffer for snails
 
 ;; Filename: snails-backend-current-buffer.el

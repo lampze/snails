@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-mdfind.el --- mdfind backend for snails
 
 ;; Filename: snails-backend-mdfind.el

@@ -1,3 +1,4 @@
+;; -*-no-byte-compile: t; -*-
 ;;; snails-backend-everything.el --- everything(windows, es.exe) backend for snails
 
 ;; Filename: snails-backend-everything.el
